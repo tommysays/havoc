@@ -1,0 +1,22 @@
+- email app
+- debt tracker app
+- sim city app (create and destroy)
+- messaging app
+
+sim city, email
+
+features
+- construction and destruction
+- construction
+	- two super classes
+	- people and buildings
+
+- destruction
+	- skills, powers
+
+- achievements
+
+- a way to save maps
+
+- user
+	- highscore
