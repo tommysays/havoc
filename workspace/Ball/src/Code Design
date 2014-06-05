@@ -1,0 +1,22 @@
+Code Design:
+
+MainMenu
+	- contains buttons/fragments? to other menus
+	- Campaign, Arcade, Highscore, Options, etc
+
+Campaign
+	- contains buttons/fragments? to missions
+	- list of missions to select
+
+Arcade
+	- contains buttons/fragments? to select
+		- difficulty level
+		- theme (background)
+
+Highscore
+	- displays list of previous highscores
+
+Options
+	- Sound options
+	- character modifications
+
