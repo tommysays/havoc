@@ -38,7 +38,7 @@ public abstract class Actor {
 
 	/**
 	 * The method used to paint the Actor to the screen.
-	 * @param gr
+	 * @param gr  Graphics object to paint Actor to.
 	 */
 	public void paint(Graphics gr) {
 		// utilize graphics component to paint
