@@ -70,7 +70,7 @@ Surround a word or block of text with asterisks (\*) or underscores (\_) to *ita
 
 Surround a word or block of text with double asterisks (\*\*) or double underscores to **bold** it.
 
-![Bold](/img/mdbold.png)
+![Bold](/img/mdbolded.png)
 
 *Note*: You can use either underscores or asterisks in any part of your document, but you cannot mix the two to italicize or bold one block. For example, having `*This*` and `_this_` in the same document is fine, but `*this_` may result in unintended behavior.
 
