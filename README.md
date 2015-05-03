@@ -55,11 +55,9 @@ Here are some basic formatting techniques to help you get started on your Markdo
 #### Headings
 To create a heading (for titles and subtitles), begin a new line by typing #, followed by your header text.
 
->`# Hello World`
+![Header 1](/img/mdh1.png)
 
 To create subheadings of various sizes, simply place more hashes (#) at the beginning of the line. One hash corresponds to the highest level (ie. largest) of heading, such as a main title or a main section heading, and the smallest heading can be created using six hashes.
-
-![Header 1](/img/mdh1.png)
 
 ![Header 2](/img/mdh2.png)
 
@@ -68,11 +66,11 @@ Besides using headings, there are other supported ways to emphasize parts of you
 
 Surround a word or block of text with asterisks (\*) or underscores (\_) to *italicize* it.
 
-This *word* needs some emphasis.
+![Italics](/img/mditalics.png)
 
 Surround a word or block of text with double asterisks (\*\*) or double underscores to **bold** it.
 
-This **word** will be bolded
+![Bold](/img/mdbold.png)
 
 *Note*: You can use either underscores or asterisks in any part of your document, but you cannot mix the two to italicize or bold one block. For example, having `*This*` and `_this_` in the same document is fine, but `*this_` may result in unintended behavior.
 
@@ -81,13 +79,11 @@ Markdown is also capable of creating bulleted or numbered lists.
 
 To create a bulleted list, simply add an asterisk (\*) followed by a space to the beginning of each line.
 
-* This is an item in the list  
-* This will be another
+![Bulleted List](/img/compareitem.png)
 
 To create a numbered list, add a number followed by a period (.) and a space to the beginning of each line.
 
-1. This is item number one  
-2. This is item number two
+![Numbered List](/img/mdnumbers.png)
 
 *Note*: Markdown *will not preserve the numbers of a list*. That is, if you try to create a numbered list that skips numbers or uses some other ordering (such as going backwards), most Markdown interpreters will simply ignore your numbers and create a list starting from 1.
 
@@ -109,7 +105,7 @@ End your lines with double enter (that is, hit enter twice) to create a complete
 ####Links
 To insert links into your document, surround the URL with parentheses, and precede it with a suitable word or phrase in square brackets.  
 
-[This is my link.](www.google.com)
+![Link](/img/mdlink.png)
 
 ##4 - HARZARDS
 
